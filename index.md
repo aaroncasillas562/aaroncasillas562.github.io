@@ -5,7 +5,7 @@ is computer engineering
 
 # Computer Science Projects 
 
-My Github page is https://github.com/aaroncasillas562
+My Github page is [https://github.com/aaroncasillas562]
 
 ### CPSC 120 
 
